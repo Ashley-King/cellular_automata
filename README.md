@@ -8,22 +8,22 @@ A Java program to replicate a simplified version of [Conway's Game of Life](http
 Screen shots of output:
 ---
 
-Rule 102:
+## Rule 102:
 
 ![alt text](http://res.cloudinary.com/ashley-king/image/upload/v1494534205/rule102_dbh8cn.png "Rule 102")
 ---
 
-Rule 109:
+## Rule 109:
 
 ![alt text](http://res.cloudinary.com/ashley-king/image/upload/v1494534581/rule109_why1hb.png "Rule 109")
 ---
 
-Rule 126:
+## Rule 126:
 
 ![alt text](http://res.cloudinary.com/ashley-king/image/upload/v1494534225/rule126_llvzm4.png "Rule 126")
 ---
 
-Rule 222:
+## Rule 222:
 
 ![alt text](http://res.cloudinary.com/ashley-king/image/upload/v1494534207/rule222_ixsdxu.png "Rule 222")
 
